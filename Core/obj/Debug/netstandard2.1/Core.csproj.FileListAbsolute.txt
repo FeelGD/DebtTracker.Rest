@@ -1,0 +1,17 @@
+C:\Users\aiyildiz\Desktop\NorthwindBackend\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\aiyildiz\Desktop\NorthwindBackend\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\aiyildiz\Desktop\NorthwindBackend\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\aiyildiz\Desktop\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\aiyildiz\Desktop\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\aiyildiz\Desktop\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\aiyildiz\Desktop\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\aiyildiz\Desktop\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.pdb
+C:\Users\aiyil\Documents\GitHub\DeptTracker.Rest\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\aiyil\Documents\GitHub\DeptTracker.Rest\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\aiyil\Documents\GitHub\DeptTracker.Rest\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\aiyil\Documents\GitHub\DeptTracker.Rest\Core\obj\Debug\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiyil\Documents\GitHub\DeptTracker.Rest\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\aiyil\Documents\GitHub\DeptTracker.Rest\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\aiyil\Documents\GitHub\DeptTracker.Rest\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\aiyil\Documents\GitHub\DeptTracker.Rest\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\aiyil\Documents\GitHub\DeptTracker.Rest\Core\obj\Debug\netstandard2.1\Core.pdb
