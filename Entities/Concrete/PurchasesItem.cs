@@ -5,10 +5,10 @@ using System.Text;
 
 namespace Entities.Concrete
 {
-    public class PurchacesItem:IEntity
+    public class PurchaseItem:IEntity
     {
         public int Id { get; set; }
-        public int PurchaceId { get; set; }
+        public int PurchaseId { get; set; }
         public string Name { get; set; }
         public decimal Amount { get; set; }
     }
