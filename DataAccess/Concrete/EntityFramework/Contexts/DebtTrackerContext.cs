@@ -28,6 +28,7 @@ namespace DataAccess.Concrete.EntityFramework.Contexts
         public DbSet<Home> Home { get; set; }
         public DbSet<Purchase> Purchases { get; set; }
         public DbSet<PurchaseItem> PurchaseItems { get; set; }
+        public DbSet<Rent> Rents { get; set; }
 
 
     }

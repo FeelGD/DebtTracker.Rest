@@ -2,9 +2,10 @@
 {
     public static class Messages
     {
-        public static string ProductAdded = "Ürün başarıyla eklendi";
-        public static string ProductDeleted = "Ürün başarıyla silindi";
-        public static string ProductUpdated = "Ürün başarıyla güncellendi";
+        public static string DebtAdded = "Borç başarıyla eklendi";
+        public static string DebtDeleted = "Borç başarıyla silindi";
+        public static string DebtNotFound = "Borç bulunamadı";
+        public static string DebtUpdated = "Borç başarıyla güncellendi";
 
         public static string UserNotFound = "Kullanıcı bulunamadı";
         public static string PasswordError="Şifre hatalı";
